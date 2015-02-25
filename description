@@ -1,0 +1,10 @@
+
+
+Project Description:
+
+This project aims to converts sound data of a pre-recorded or real-time video stream into its muted version enhanced with visualization of sound. The output is meant to stimulate an aesthetic effect to entertain its users.
+
+This project consists of a system of two microphones, a camera, a computer, and a monitor. The camera is plugged with the two microphones surrounding it, and it would produce video with audio data. The two-microphone setup allows the data produced to include accurate record of the direction of sounds in the filmed environment. The video and audio data are sent to the computer, and both signals are processed by a microcontroller. Eventually, a visual representation, such as vertical color bars, is overlay on top of the received video data and output onto the monitor for user to enjoy.
+
+
+
